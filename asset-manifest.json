@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Seuka/static/css/main.99890aea.css",
-    "main.js": "/Seuka/static/js/main.cdef3b68.js",
+    "main.js": "/Seuka/static/js/main.c5dc7f2c.js",
     "static/js/453.5e560239.chunk.js": "/Seuka/static/js/453.5e560239.chunk.js",
     "static/media/batagor.jpg": "/Seuka/static/media/batagor.d8cc5272554eb4ad96bb.jpg",
     "static/media/orang-removebg-preview.png": "/Seuka/static/media/orang-removebg-preview.e14a877b9081beb2d292.png",
@@ -33,11 +33,11 @@
     "static/media/monas.jpg": "/Seuka/static/media/monas.8a55ff37a317138fbc33.jpg",
     "index.html": "/Seuka/index.html",
     "main.99890aea.css.map": "/Seuka/static/css/main.99890aea.css.map",
-    "main.cdef3b68.js.map": "/Seuka/static/js/main.cdef3b68.js.map",
+    "main.c5dc7f2c.js.map": "/Seuka/static/js/main.c5dc7f2c.js.map",
     "453.5e560239.chunk.js.map": "/Seuka/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99890aea.css",
-    "static/js/main.cdef3b68.js"
+    "static/js/main.c5dc7f2c.js"
   ]
 }
