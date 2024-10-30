@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Seuka/static/css/main.99890aea.css",
+    "main.js": "/Seuka/static/js/main.cdef3b68.js",
+    "static/js/453.5e560239.chunk.js": "/Seuka/static/js/453.5e560239.chunk.js",
+    "static/media/batagor.jpg": "/Seuka/static/media/batagor.d8cc5272554eb4ad96bb.jpg",
+    "static/media/orang-removebg-preview.png": "/Seuka/static/media/orang-removebg-preview.e14a877b9081beb2d292.png",
+    "static/media/Tahu gimbal.jpg": "/Seuka/static/media/Tahu gimbal.89788d2798d04de210da.jpg",
+    "static/media/ondel ondeljpg.jpg": "/Seuka/static/media/ondel ondeljpg.e610a9f1d793ec6749d2.jpg",
+    "static/media/gudeg.jpg": "/Seuka/static/media/gudeg.d643c4031a510ae2392b.jpg",
+    "static/media/banten.jpg": "/Seuka/static/media/banten.714fb00056be0e75561a.jpg",
+    "static/media/tugu jogja.jpg": "/Seuka/static/media/tugu jogja.c4981caa01d324a7f19b.jpg",
+    "static/media/dki.jpg": "/Seuka/static/media/dki.b53a70eac44ac4964f60.jpg",
+    "static/media/surabaya.jpg": "/Seuka/static/media/surabaya.2bf0fe98a811aa04d2dc.jpg",
+    "static/media/masjid banten.jpg": "/Seuka/static/media/masjid banten.ac276fb704bb6be3d566.jpg",
+    "static/media/rabeg.jpg": "/Seuka/static/media/rabeg.adf436b1a75ca1ad6be5.jpg",
+    "static/media/prambanan.jpg": "/Seuka/static/media/prambanan.87907d946f5602b4e20f.jpg",
+    "static/media/tugu muda.jpg": "/Seuka/static/media/tugu muda.bbfc48b8d0410c35dc76.jpg",
+    "static/media/Lawang Sewu.jpg": "/Seuka/static/media/Lawang Sewu.b38acf380dfb2f3de8c2.jpg",
+    "static/media/reog.jpg": "/Seuka/static/media/reog.b03cb1b63ffdc785050f.jpg",
+    "static/media/singosari.jpg": "/Seuka/static/media/singosari.0236342f2a79bb6fd4d3.jpg",
+    "static/media/Tari-Gambyong.jpg": "/Seuka/static/media/Tari-Gambyong.be03f7d2149951fb85bb.jpg",
+    "static/media/DIY.jpg": "/Seuka/static/media/DIY.a4a340596dcf9040d45b.jpg",
+    "static/media/rawon.jpg": "/Seuka/static/media/rawon.5368674735ad98ba9882.jpg",
+    "static/media/jateng.jpg": "/Seuka/static/media/jateng.27fa2d945c2ec03e256a.jpg",
+    "static/media/jatim.jpg": "/Seuka/static/media/jatim.ff8e108410afadec904c.jpg",
+    "static/media/gedung sate.jpg": "/Seuka/static/media/gedung sate.d6f9be3521c92827e404.jpg",
+    "static/media/jabar.jpg": "/Seuka/static/media/jabar.8563f4ae8c8f98598463.jpg",
+    "static/media/tari jaipong.jpeg": "/Seuka/static/media/tari jaipong.8dd09f30c25aac8631fe.jpeg",
+    "static/media/ramayana.jpg": "/Seuka/static/media/ramayana.c06de6fa6b5efed22bcc.jpg",
+    "static/media/ketoprak.jpg": "/Seuka/static/media/ketoprak.e85fc571d1d3b7f8dc73.jpg",
+    "static/media/tari cokek.jpg": "/Seuka/static/media/tari cokek.52141ad85921c744a507.jpg",
+    "static/media/monas.jpg": "/Seuka/static/media/monas.8a55ff37a317138fbc33.jpg",
+    "index.html": "/Seuka/index.html",
+    "main.99890aea.css.map": "/Seuka/static/css/main.99890aea.css.map",
+    "main.cdef3b68.js.map": "/Seuka/static/js/main.cdef3b68.js.map",
+    "453.5e560239.chunk.js.map": "/Seuka/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99890aea.css",
+    "static/js/main.cdef3b68.js"
+  ]
+}
